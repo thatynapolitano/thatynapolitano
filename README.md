@@ -1,5 +1,8 @@
-## Olá! Sou Thatiana Napolitano, seja bem-vindo(a)! 😄
+## Olá, sou Thatiana Napolitano. Seja bem-vindo(a)! 😄
 
+<p> 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas <br> 🌱 Gostaria de atuar no futuro como desenvolvedora back-end <br> 💡 Estou aprendendo Python e Javascript <br> 
+
+</p>
 <div>
   <a href="https://github.com/thatynapolitano">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thatynapolitano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
