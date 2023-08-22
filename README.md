@@ -1,6 +1,6 @@
 ## Olá, sou Thatiana Napolitano. Seja bem-vindo(a)! 😄
 
-<p> 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas <br> 🌱 Gostaria de atuar no futuro como desenvolvedora back-end <br> 💡 Estou aprendendo a programar em Python e Javascript <br> 
+<p> 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas <br> 🌱 Trabalho com Data Analytics <br> 💡 Estou aprendendo a programar em Python e Javascript <br> 
 
 </p>
 <div>
