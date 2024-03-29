@@ -3,7 +3,7 @@
 <p> 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas <br> 📊 Trabalho com Data & Analytics <br> 💡 Aprendendo a programar em Python <br> 
  
 </p>
-<div>
+<div align="center">
   <a href="https://github.com/thatynapolitano">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thatynapolitano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatynapolitano&layout=compact&langs_count=16&theme=dracula"/>
