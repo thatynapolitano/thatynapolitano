@@ -14,6 +14,7 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandaslogo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apachespark-original.svg" height="40" width="52" alt="apachesparklogo"  />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  /> !-->
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript logo" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github icon" width="65" height="65" />
