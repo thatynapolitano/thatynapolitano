@@ -1,6 +1,6 @@
 ## Olá, sou Thatiana Napolitano. Seja bem-vindo(a)! 😄
 
-<p> 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas <br> 📊 Trabalho com Análise de Dados <br> 🛠️ Aprofundando meus estudos em Engenharia de Dados <br> 💡 Gosto de programar em Python <br> Amo viajar, ir ao cinema e jogar com os amigos
+<p> 👩‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas <br> 📊 Trabalho com Análise de Dados <br> 🛠️ Aprofundando meus estudos em Engenharia de Dados <br> 💡 Gosto de programar em Python <br> 🎮 Adoro jogar com os amigos, ir ao cinema e viajar
  
 </p>
 <div align="center">
