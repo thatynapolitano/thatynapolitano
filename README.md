@@ -11,11 +11,11 @@
 <br>
     
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandaslogo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" width="52" alt="apachesparklogo"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github icon" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python logo" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas logo" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="apache spark logo" height="48" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github logo" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" height="48" />
 </div>
   
 ##
